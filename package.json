@@ -1,0 +1,35 @@
+{
+  "name"          : "object-upperkeys",
+  "version"       : "1.0.0",
+  "description"   : "Convert the keys of an object to uppercase",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/object-upperkeys.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : ""
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "object",
+    "keys",
+    "properties",
+    "uppercase-keys",
+    "upperkeys",
+    "uppercase",
+    "extend",
+    "assign",
+    "upper-case",
+    "case",
+    "keys",
+    "key",
+    "toUpperCase"
+  ]
+}
