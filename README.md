@@ -37,7 +37,9 @@ UPPERCASE_KEYS.toUpperCaseKeys(days);
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/object-upperkeys.git
+```bash
+$ git clone https://github.com/luthraG/object-upperkeys.git
+```
 
 ### API
 
