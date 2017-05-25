@@ -1,6 +1,6 @@
 {
   "name"          : "object-upperkeys",
-  "version"       : "1.0.1",
+  "version"       : "1.0.2",
   "description"   : "Convert the keys of an object to uppercase",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/object-upperkeys.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : "1.1.2"
+    "node-ratify" : "~1.1.0"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
